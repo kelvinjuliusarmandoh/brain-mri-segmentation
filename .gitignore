@@ -1,0 +1,5 @@
+*.zip
+*.ipynb
+models
+data/
+img_1.
